@@ -84,4 +84,4 @@ See the comments in the notebook for the detailed discussion and the limitations
 
 ## Author
 
-<Your name> – <your email or GitHub profile>
+Chaimae Badssi – choucha.badssi@gmail.com
